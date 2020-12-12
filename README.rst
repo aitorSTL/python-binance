@@ -8,8 +8,8 @@ This reository is a fork from https://github.com/sammchardy/python-binance
 
 Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577)
 
-If I need some feature I will try to code myself and contribute to the original project
----------------------------------------------------------------------------------------
+If I need some feature I will try to code it myself and contribute to the original project
+------------------------------------------------------------------------------------------
 
 
 Note
