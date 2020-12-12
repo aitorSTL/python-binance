@@ -5,6 +5,7 @@ Welcome to python-binance v0.7.5
 Note
 ----
 Forked from https://github.com/sammchardy/python-binance
+
 Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577)
 
 
