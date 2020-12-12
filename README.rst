@@ -4,6 +4,9 @@ Welcome to python-binance v0.7.5
 
 Note
 ----
+Forked from https://github.com/sammchardy/python-binance
+Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577)
+
 
 I am working on a python3 version with async support to remove legacy dependencies and their related issues.
 
