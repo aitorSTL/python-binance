@@ -4,7 +4,7 @@ Welcome to python-binance v0.7.5*
 
 aitorSTL:
 
-This reository is a fork from https://github.com/sammchardy/python-binance
+This repository is a fork from https://github.com/sammchardy/python-binance
 
 Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577)
 
