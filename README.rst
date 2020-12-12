@@ -2,11 +2,18 @@
 Welcome to python-binance v0.7.5
 ================================
 
-Note
-----
-Forked from https://github.com/sammchardy/python-binance
+aitorSTL:
+
+This reository is a fork from https://github.com/sammchardy/python-binance
 
 Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577)
+
+If I need some feature I will try to code myself and contribute to the original project
+---------------------------------------------------------------------------------------
+
+
+Note
+----
 
 
 I am working on a python3 version with async support to remove legacy dependencies and their related issues.
