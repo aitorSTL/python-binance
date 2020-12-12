@@ -6,10 +6,10 @@ aitorSTL:
 
 This repository is a fork from https://github.com/sammchardy/python-binance
 
-Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577 by https://github.com/gabriel-milan)
+Added faster orderbook (pull request https://github.com/sammchardy/python-binance/pull/577 by https://github.com/gabriel-milan), more info in the binance release https://www.binance.com/en/support/articles/360032916632
 
-If I need some feature I will try to code it myself and contribute to the original project
-------------------------------------------------------------------------------------------
+If I need some feature I will try to code it myself and contribute to the original project.
+-------------------------------------------------------------------------------------------
 
 
 Note
